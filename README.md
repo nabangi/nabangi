@@ -2,7 +2,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/nabangi">Alvaro Nabangi</h1>
 
 <p align="center">
-    <img width="200" src="https://github.com/nabangi/Alvaro_Nabangi/Assets/apn.jpg">
+    <img width="200" src="https://github.com/nabangi/nabangi/Assets/apn.jpg">
 </p>
 
 <div>
@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabangi&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangie&repo=Alvaro_Nabangi&theme=radical)](https://github.com/nabangi/Alvaro_Nabangi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangie&repo=nabangi&theme=radical)](https://github.com/nabangi/nabangi)
 </div>
 
 ------
