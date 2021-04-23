@@ -16,7 +16,7 @@
   <li>Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain</li>
   <li>Mellanox Technologies: Manage Your Mellanox Switch With Cumulus Linux</li>
 </ul>
-📫 Reach me at <a href="mailto:alvaronabangi@gmail.com">Email me</a><br>
+📫 Reach me at <a href="mailto:alvaronabangi@gmail.com">alvaronabangi@gmail.com</a><br>
 😄 Find me on <a href="www.linkedin.com/in/nabangi-alvaro-a9256073/">Linkedin</a><br><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
