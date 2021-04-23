@@ -26,18 +26,18 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabangi&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabangi&theme=radical&hide_border=true"/><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabangi&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabangi&theme=merko&hide_border=true"/><br><br>
 
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-JavaScript-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-PHP-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabangi&langs_count_private=true&theme=radical&card_width=445)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabangi&langs_count_private=true&theme=merko&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=nabangi&theme=radical)](https://github.com/nabangi/nabangi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=nabangi&theme=merko)](https://github.com/nabangi/nabangi)
 </div>
 
 ------
