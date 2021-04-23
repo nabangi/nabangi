@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabangi&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangie&repo=github-readme-stats)](https://github.com/nabangi/nabangi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=github-readme-stats)](https://github.com/nabangi/nabangi)
 </div>
 
 ------
