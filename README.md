@@ -7,15 +7,15 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
+💻 I’m currently working as a DevOps Engineer for a Cloud Service Provider in Nairobi Kenya<br>
 📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
 📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
 <ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+  <li>IBM: Application Security Specialist with IBM Security AppScan v8.7</li>
+  <li>Udemy: Practical Ethical Hacking</li>
+  <li>Udemy: Docker Mastery: with Kubernetes +Swarm from a Docker Captain</li>
+  <li>Mellanox Technologies: Manage Your Mellanox Switch With Cumulus Linux</li>
 </ul>
 📫 Reach me at <a href="mailto:alvaronabangi@gmail.com">Email me</a><br>
 😄 Find me on <a href="www.linkedin.com/in/nabangi-alvaro-a9256073/">Linkedin</a><br><br><br>
