@@ -8,6 +8,7 @@
 <div>
 <strong>About Me:</strong><br>
 💻 I’m currently working as a DevOps Engineer for a Cloud Service Provider in Nairobi Kenya<br>
+📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and services industry. Experienced in Open Compute Projects, Linux, Python, Software Defined Networking, Cloud Infrastructure Support, CI/CD and an Information Security Enthusiast.<br>
     
 🏆 My certifications: 
 <ul>
