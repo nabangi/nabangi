@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/nabangi">Alvaro Nabangi</h1>blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/nabangi">Alvaro Nabangi</h1>
 
 <p align="center">
     <img width="200" src="https://github.com/nabangi/nabangi/Assets/donAlvie.jpg">
