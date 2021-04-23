@@ -2,7 +2,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/nabangi">Alvaro Nabangi</h1>
 
 <p align="center">
-    <img width="200" src="https://github.com/nabangi/nabangi/Assets/apn.jpg">
+    <img width="200" src="https://github.com/nabangi/nabangi/Assets/donAlvie.jpg">
 </p>
 
 <div>
