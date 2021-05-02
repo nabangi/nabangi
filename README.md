@@ -21,10 +21,8 @@
   <li>Mellanox Technologies: Manage Your Mellanox Switch With Cumulus Linux</li>
 </ul>
 📫 Reach me at <a href="mailto:alvaronabangi@gmail.com">alvaronabangi@gmail.com</a><br>
-😄 Find me on <a href="www.linkedin.com/in/nabangi-alvaro-a9256073/">Linkedin</a><br><br><br>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nabangi-alvaro-a9256073" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/nabangi-alvaro-a9256073?trk=profile-badge">Alvaro Nabangi</a></div>
+              
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabangi&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabangi&theme=merko&hide_border=true"/><br><br>
