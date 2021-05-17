@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/nabangi">Alvaro Nabangi</h1>
 
 <p align="center">
-    <img src="https://github.com/nabangi/nabangi/blob/main/Assets/CommBuilderLogo.pngg" height="200"/>  
+    <img src="https://github.com/nabangi/nabangi/blob/main/Assets/CommBuilderLogo.png" height="200"/>  
 </p>
 <br>
 
