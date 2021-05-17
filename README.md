@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/nabangi">Alvaro Nabangi</h1>
 
 <p align="center">
-    <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+    <img src="https://github.com/nabangi/nabangi/blob/main/Assets/Community%20Builder%20logo%20for%20light%20background.png" height="200"/>  
 </p>
 <br>
 
@@ -42,4 +42,4 @@ Happy to be accepted into the AWS Community Builders Program 2021-2022!<br>
 
 ------
 Credit: [Alvaro_Nabangi](https://github.com/nabangi)
-Last Edited on: 23/4/2021
+Last Edited on: 17/5/2021
