@@ -12,6 +12,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><strong>About Me:</strong><br>
 💻 I’m currently working as a DevOps Engineer for a Cloud Service Provider in Nairobi Kenya<br>
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and services industry. Experienced in Open Compute Projects,    Linux, Python, Software Defined Networking, Cloud Infrastructure Support, CI/CD and an Information Security Enthusiast.<br>
+
+Happy to be accepted into the AWS Community Builders Program 2021-2022!<br>
     
 🏆 My certifications: 
 <ul>
