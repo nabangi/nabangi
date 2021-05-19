@@ -39,7 +39,9 @@ Happy to be accepted into the AWS Community Builders Program 2021-2022!<br>
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=nabangi&theme=merko)](https://github.com/nabangi/nabangi)
 </div>
-
+<a href="https://dev.to/nabangi">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alvaro's DEV Community Profile" height="30" width="30">
+</a>
 ------
 Credit: [Alvaro_Nabangi](https://github.com/nabangi)
 Last Edited on: 17/5/2021
