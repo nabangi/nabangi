@@ -47,7 +47,7 @@ I employ Frugality and Documenting culture to deploying solutions in a data driv
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabangi&langs_count_private=true&theme=merko&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=nabangi&theme=merko)](https://github.com/nabangi/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=nabangi&theme=merko)](https://github.com/nabangi/MariaDB-in-Docker)
 </div>
 <a href="https://dev.to/nabangi">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alvaro's DEV Community Profile" height="30" width="30">
