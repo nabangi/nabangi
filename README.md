@@ -10,10 +10,18 @@
  </p>
 <div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><strong>About Me:</strong><br>
-💻 I’m currently working as a Senior System Engineer for a Cloud Service Provider in Nairobi Kenya<br>
-📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and services industry. Experienced in Open Compute Projects,    Linux, Python, Software Defined Networking, Cloud Infrastructure Support, CI/CD and an Information Security Enthusiast.<br>
+💻 SysAdmin | SRE | Cloud Solutions Architect<br>
+    
+📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and services
+industry 6+ years. My tech stack consists of but not limited to, Linux, bash, Python, Cloud Computing, Kubernetes,
+docker, Ansible, Prometheus, grafana with interests in Information Security as well.<br>
+    
+Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project
+courtesy of Open Compute Project.<br>
+    
+Currently an AWS Community Builder in the Network Content & Delivery.<br>
+I employ Frugality and Documenting culture to deploying solutions in a data driven approach<br>
 
-Happy to be accepted into the AWS Community Builders Program Network Content & Delivery Topic!<br>
     
 🏆 My certifications: 
 <ul>
@@ -44,4 +52,4 @@ Happy to be accepted into the AWS Community Builders Program Network Content & D
 </a>
 ------
 Credit: [Alvaro_Nabangi](https://github.com/nabangi)
-Last Edited on: 17/5/2021
+Last Edited on: 17/10/2021
