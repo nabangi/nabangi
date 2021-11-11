@@ -25,6 +25,7 @@ I employ Frugality and Documenting culture to deploying solutions in a data driv
     
 🏆 My certifications: 
 <ul>
+  <li>AWS Certified Cloud Practitioner</li>
   <li>Linux Server Professional</li>
   <li>Scrum Fundamentals Certified (SFC) - SCRUMstudy</li>  
   <li>IBM: Application Security Specialist with IBM Security AppScan v8.7</li>
