@@ -46,7 +46,7 @@ I employ Frugality and Documenting culture to deploying solutions in a data driv
 <img src="https://img.shields.io/badge/-PHP-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabangi&langs_count_private=true&theme=merko&card_width=445)<br><br>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fd75eb5-2ef8-4262-889e-c00ee22e9941" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabangi&repo=nabangi&theme=merko)](https://github.com/nabangi/MariaDB-in-Docker)
 </div>
@@ -54,6 +54,7 @@ I employ Frugality and Documenting culture to deploying solutions in a data driv
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alvaro's DEV Community Profile" height="30" width="30">
 </a>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fd75eb5-2ef8-4262-889e-c00ee22e9941" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ------
 Credit: [Alvaro_Nabangi](https://github.com/nabangi)
 Last Edited on: 17/10/2021
