@@ -10,20 +10,16 @@
  </p>
 <div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><strong>About Me:</strong><br>
-💻 SysAdmin | SRE | DevOps | Cloud Computing<br>
+💻 Systems Administrator | SRE | DevOps | Cloud Computing<br>
     
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and
-services industry 6+ years. Main tech stack consists of but not limited to, Linux, bash, Python, Cloud
-Computing, Kubernetes, docker, Ansible, Prometheus, Grafana with interests in Information Security as
-well. Implemented Network monitoring solutions in the infrastructure and led the Software Defined
-Networks Project courtesy of Open Compute Project. Currently an AWS Community Builder in the Network
-Content & Delivery. Employing Frugality and Documenting culture to provide solutions in a data driven
-and customer centric approach.<br>
-Committed to improving system design and operations for reliable workflow management. Researches
-and implements budget-conscious security and encryption solutions to protect user privacy and increase
-overall network health. Love collaborating with customers and teammates in creating easy-to-follow
-guidelines and troubleshooting documentation for non-technical staff.
-.<br>
+services industry 6+ years.<br>
+Main tech stack consists of but not limited to; Linux, bash, Python, Cloud Computing, Kubernetes, docker, Ansible, Prometheus, Grafana with interests in Information Security as well.<br>
+Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project courtesy of Open Compute Project. Currently an AWS Community Builder in the Network Content & Delivery.<br>
+- Employing Frugality and Documenting culture to provide solutions in a data driven and customer centric approach.
+- Committed to improving system design and operations for reliable workflow management.
+- Researching and implementing budget-conscious security/encryption solutions to protect user privacy and increase reliability.
+- Love collaborating with customers and teammates in creating easy-to-follow guidelines and troubleshooting documentation for non-technical staff.<br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project
 courtesy of Open Compute Project.<br>
