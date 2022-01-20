@@ -15,12 +15,12 @@
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and
 services industry 6+ years.<br>
     
-Main tech stack consists of but not limited to; <strong>Windows</strong>, <strong>Linux</strong>, <strong>bash</strong>,<strong>Python</strong>,<strong>Cloud Computing</strong>, <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Ansible</strong>, <strong>Prometheus</strong>, <strong>Grafana</strong>,<strong>Zabbix</strong>, <strong>Observium</strong>, <strong>Apache Skywalking</strong>, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving, assessing the situation and acting accordingly.<br>
+Tech stack and Skills: <strong>Windows</strong>, <strong>Linux</strong>, <strong>bash</strong>,<strong>Python</strong>,<strong>Cloud Computing</strong>, <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Ansible</strong>, <strong>Prometheus</strong>, <strong>Grafana</strong>,<strong>Zabbix</strong>, <strong>Observium</strong>, <strong>Apache Skywalking</strong>, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving, assessing the situation and acting accordingly.<br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project courtesy of Open Compute Project.<br>
 - Currently an AWS Community Builder in the Network Content & Delivery.
 - Employing Frugality and Documenting culture to provide solutions in a data driven and customer centric approach.
-- Committed to improving system design and operations for reliable workflow management.
+- Committed to always architecting with priority on automation to ensure operational excellence.
 - Researching and implementing budget-conscious security/encryption solutions to protect user privacy and increase reliability.
 - Love collaborating with customers and teammates in creating easy-to-follow guidelines and troubleshooting documentation for non-technical staff.<br>
     
