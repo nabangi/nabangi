@@ -10,12 +10,12 @@
  </p>
 <div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><strong>About Me:</strong><br>
-💻 Systems Administrator | SRE | DevOps | Cloud Computing<br>
+💻 Systems Administrator | SRE | DevOps | Cloud Computing <br>
     
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and
 services industry 6+ years.<br>
     
-Tech stack and Skills: <strong>Windows, Linux, Bash, Python, Cloud Computing, Kubernetes, Docker, Ansible, Prometheus, Grafana, Zabbix, Observium, Apache Skywalking, KVM, LXC, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving,</strong> assessing the situation and acting accordingly.<br>
+Tech stack and Skills: <strong>Windows, Linux, Bash, Python, Cloud Computing, Kubernetes, Docker, Ansible, Prometheus, Grafana, Zabbix, Observium, Apache Skywalking, KVM, LXC, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving, assessing the situation and acting accordingly.</strong> <br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project courtesy of Open Compute Project.<br>
 - Currently an AWS Community Builder in the Network Content & Delivery.
