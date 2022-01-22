@@ -15,7 +15,7 @@
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and
 services industry 6+ years.<br>
     
-Tech stack and Skills: <strong>Windows</strong>, <strong>Linux</strong>, <strong>bash</strong>,<strong>Python</strong>,<strong>Cloud Computing</strong>, <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Ansible</strong>, <strong>Prometheus</strong>, <strong>Grafana</strong>,<strong>Zabbix</strong>, <strong>Observium</strong>, <strong>Apache Skywalking</strong>,<strong>KVM</strong>,<strong>LXC, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving,</strong> assessing the situation and acting accordingly.<br>
+Tech stack and Skills: <strong>Windows, Linux, bash, Python, Cloud Computing, Kubernetes, Docker, Ansible, Prometheus, Grafana, Zabbix, Observium, Apache Skywalking, KVM, LXC, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving,</strong> assessing the situation and acting accordingly.<br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project courtesy of Open Compute Project.<br>
 - Currently an AWS Community Builder in the Network Content & Delivery.
