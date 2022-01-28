@@ -10,7 +10,7 @@
  </p>
 <div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><strong>About Me:</strong><br>
-💻 `Systems Administrator | SRE | DevOps | Cloud Computing` <br>
+💻 Systems Administrator | SRE | DevOps | Cloud Computing <br>
     
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and
 services industry 6+ years.<br>
