@@ -18,11 +18,12 @@ services industry 6+ years.<br>
 Tech stack and Skills: <strong>Windows, Linux, Bash, Python, Cloud Computing, Kubernetes, Docker, Ansible, Prometheus, Grafana, Zabbix, Observium, Apache Skywalking, KVM, LXC, security, decision making, project management, automation, interpersonal skills, collaboration, troubleshooting, problem solving, assessing the situation and acting accordingly.</strong> <br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project courtesy of Open Compute Project.<br>
-- Currently an AWS Community Builder in the Network Content & Delivery.
-- Employing Frugality and Documenting culture to provide solutions in a data driven and customer centric approach.
-- Committed to always architecting with priority on automation to ensure operational excellence.
-- Researching and implementing budget-conscious security/encryption solutions to protect user privacy and increase reliability.
-- Love collaborating with customers and teammates in creating easy-to-follow guidelines and troubleshooting documentation for non-technical staff.<br>
+    <strong>Areas of Interest;</strong><br>
+- Cloud Computing Architectures (Reliability, Durability, Security, Cost effective)
+- Kubernetes (Containerisation /docker/lxc/lxd/podman)
+- GitOps (Infrastructure as Code or as a product Approach - Operational Excellence)
+- Observability (Monitoring, Alerts, Ownership)
+- DevOps Culture.<br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project
 courtesy of Open Compute Project.<br>
