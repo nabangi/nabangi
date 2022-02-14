@@ -22,7 +22,7 @@ Implemented Network monitoring solutions in the infrastructure and led the Softw
 - Cloud Computing Architectures (Reliability, Durability, Security, Cost effective)
 - Kubernetes (Containerisation /docker/lxc/lxd/podman)
 - GitOps (Infrastructure as Code or as a product Approach - Operational Excellence)
-- Observability (Monitoring, Alerts, Ownership)
+- Observability (Both Network & App Monitoring, Alerts, Ownership)
 - DevOps Culture.<br>
     
 Implemented Network monitoring solutions in the infrastructure and led the Software Defined Networks Project
@@ -63,4 +63,4 @@ Currently an AWS Community Builder in the Network Content & Delivery.<br>
 
 ------
 Credit: [Alvaro_Nabangi](https://github.com/nabangi)
-Last Edited on: 01/01/2022
+Last Edited on: 02/01/2022
