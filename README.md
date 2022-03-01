@@ -33,7 +33,7 @@ Currently an AWS Community Builder in the Network Content & Delivery.<br>
 🏆 My certifications: 
 <ul>
   <li>AWS Certified Cloud Practitioner</li>
-  <li>Linux Server Professional</li>
+  <li>Linux Server Professional - Cloud Academy</li>
   <li>Scrum Fundamentals Certified (SFC) - SCRUMstudy</li>  
   <li>IBM: Application Security Specialist with IBM Security AppScan v8.7</li>
   <li>Udemy: Practical Ethical Hacking</li>
