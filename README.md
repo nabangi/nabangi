@@ -10,7 +10,8 @@
  </p>
 <div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><strong>About Me:</strong><br>
-💻 Systems Administrator | Cloud & BigData Platform Engineer | Solutions Architech |<br>
+    <br>
+💻 <strong>Systems Administrator | Cloud & BigData Platform Engineer | Solutions Architech |</strong><br>
     
 📈 A dedicated Systems Engineer with demonstrated history of working in the information technology and
 services industry 9+ years.<br>
